@@ -22,9 +22,9 @@ pip install -r requirements.txt
 ```
 To browse the examples corresponding to released versions of Transformers, click on the line below and then on your desired version of the library: 
 
-Examples for older versions of Transformers  
 <details>
 <summary>Examples for older versions of Transformers</summary>
+  
 - v4.21.0  
 - v4.20.1  
 - v4.19.4  
@@ -35,7 +35,8 @@ Examples for older versions of Transformers
 - v4.14.1  
 - v4.13.0  
 - v4.12.5  
-- v4.11.3  
+- v4.11.3
+-  
 </details>
 
 Alternatively, you can switch your cloned Transformers to a specific version (for instance with v3.5.1) with  
