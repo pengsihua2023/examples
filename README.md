@@ -25,18 +25,50 @@ To browse the examples corresponding to released versions of Transformers, click
 <details>
 <summary>Examples for older versions of Transformers</summary>
   
-- v4.21.0  
-- v4.20.1  
-- v4.19.4  
-- v4.18.0  
-- v4.17.0  
-- v4.16.2  
-- v4.15.0  
-- v4.14.1  
-- v4.13.0  
-- v4.12.5  
-- v4.11.3
--  
+v4.21.0
+v4.20.1
+v4.19.4
+v4.18.0
+v4.17.0
+v4.16.2
+v4.15.0
+v4.14.1
+v4.13.0
+v4.12.5
+v4.11.3
+v4.10.3
+v4.9.2
+v4.8.2
+v4.7.0
+v4.6.1
+v4.5.1
+v4.4.2
+v4.3.3
+v4.2.2
+v4.1.1
+v4.0.1
+v3.5.1
+v3.4.0
+v3.3.1
+v3.2.0
+v3.1.0
+v3.0.2
+v2.11.0
+v2.10.0
+v2.9.1
+v2.8.0
+v2.7.0
+v2.6.0
+v2.5.1
+v2.4.0
+v2.3.0
+v2.2.0
+v2.1.1
+v2.0.0
+v1.2.0
+v1.1.0
+v1.0.0
+  
 </details>
 
 Alternatively, you can switch your cloned Transformers to a specific version (for instance with v3.5.1) with  
