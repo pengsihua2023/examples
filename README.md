@@ -54,7 +54,7 @@ To browse the examples corresponding to released versions of Transformers, click
 - [v3.1.0](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
 - [v3.0.2](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
 - [v2.11.0](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
-- v2.10.0](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
+- [v2.10.0](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
 - [v2.9.1](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
 - [v2.8.0](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
 - [v2.7.0](https://github.com/huggingface/transformers/tree/v4.0.1/examples)
