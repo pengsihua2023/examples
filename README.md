@@ -17,8 +17,9 @@ cd transformers
 pip install .  
 ```
 Then cd in the example folder of your choice and run  
-
-pip install -r requirements.txt  
+```
+pip install -r requirements.txt
+```
 To browse the examples corresponding to released versions of 🤗 Transformers, click on the line below and then on your desired version of the library: 
 
 Examples for older versions of 🤗 Transformers  
