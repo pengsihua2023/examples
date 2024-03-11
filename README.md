@@ -25,8 +25,8 @@ To browse the examples corresponding to released versions of Transformers, click
 <details>
 <summary>Examples for older versions of Transformers</summary>
   
-v4.21.0
-v4.20.1
+- v4.21.0
+- v4.20.1
 v4.19.4
 v4.18.0
 v4.17.0
