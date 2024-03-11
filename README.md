@@ -11,10 +11,11 @@ Important note
 Important  
 
 To make sure you can successfully run the latest versions of the example scripts, you have to install the library from source and install some example-specific requirements. To do this, execute the following steps in a new virtual environment:  
-
+```
 git clone https://github.com/huggingface/transformers  
 cd transformers  
 pip install .  
+```
 Then cd in the example folder of your choice and run  
 
 pip install -r requirements.txt  
@@ -22,6 +23,7 @@ To browse the examples corresponding to released versions of 🤗 Transformers, 
 
 Examples for older versions of 🤗 Transformers  
 Alternatively, you can switch your cloned 🤗 Transformers to a specific version (for instance with v3.5.1) with  
-
-git checkout tags/v3.5.1  
+```
+git checkout tags/v3.5.1
+```
 and run the example command as usual afterward.  
